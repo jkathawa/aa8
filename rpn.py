@@ -20,6 +20,10 @@ def calculate(arg):
                 result = val2 + val1
             if token == '-':
                 result = val2 - val1
+            if token == '*':
+                result = val2 * val1
+            if token == '/'
+                result = val2 / val1
 
             stack.append(result)
             return stack[0]
