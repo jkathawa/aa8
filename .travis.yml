@@ -1,6 +1,7 @@
 language: python
 python:
         - "2.7"
-script: python -m coverage run test_rpn.py
-        python -m coverage report
-        python -m coverage_badge -o coverage.svg
+script: 
+        - python -m coverage run test_rpn.py
+        - python -m coverage report
+        - python -m coverage_badge -o coverage.svg
