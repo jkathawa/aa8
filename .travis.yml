@@ -1,0 +1,5 @@
+language: python
+python:
+        - "stable"
+script: python -m coverage run test_rpn.py
+        python -m coverage report
