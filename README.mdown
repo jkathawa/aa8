@@ -1,0 +1,2 @@
+### Status
+[![Build Status](https://travis-ci.org/jkathawa/aa8.png)](https://travis-ci.org/jkathawa/aa8)
