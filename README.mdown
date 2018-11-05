@@ -1,3 +1,3 @@
 ### Status
 [![Build Status](https://travis-ci.org/jkathawa/aa8.png)](https://travis-ci.org/jkathawa/aa8)
-[![Coverage](https://github.com/jkathawa/aa8/coverage.svg)]
+[![Coverage](https://github.com/jkathawa/aa8/coverage.svg)](https://tracis-ci.org/jkathawa/aa8)
